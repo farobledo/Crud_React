@@ -15,6 +15,7 @@ Content Table
    * [Borrar Usuario](#delete)
 <!--te-->
 
-![image](https://user-images.githubusercontent.com/83982603/224596956-df1f7efb-041a-4c91-97e3-0ad1a996f27d.
+![image](https://user-images.githubusercontent.com/83982603/224597663-52b379ed-89e3-4a41-a9a3-e88098ead855.png)
+
 
 
