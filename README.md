@@ -5,26 +5,17 @@
 </p>
 
 <h1 align="center">Reactjs Node Mysql CRUD</h1>
-<p align="center">A simple CRUD made with Reactjs, Nodejs and Mysql</p>
+<p align="center">CRUD made with Reactjs, Nodejs and Mysql</p>
 
 Content Table
 =================
 <!--ts-->
    * [Home](#home)
-   * [Edit](#edit)
-   * [Tools](#tools)
+   * [Editar](#editar)
+   * [Crear Usuario](#Craer)
 <!--te-->
 
-# Home
-![home layout](https://github.com/nailtonvital/react-node-crud-mysql/blob/master/screenshots/home.png)
 
-# Edit
-![edit layout](https://github.com/nailtonvital/react-node-crud-mysql/blob/master/screenshots/edit.png)
 
-# Tools
-<ul>
-  <li><a href="https://github.com/facebook/react">Reactjs</a></li>
-  <li><a href="https://github.com/nodejs/node">Nodejs</a></li>
-  <li><a href="https://github.com/topics/mysql">Mysql</a></li>
-</ul>
+# 
 
