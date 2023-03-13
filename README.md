@@ -10,12 +10,12 @@
 Content Table
 =================
 <!--ts-->
-   * [Home](#home)
-   * [Editar](#editar)
    * [Crear Usuario](#Craer)
+   * [Editar Usuario](#editar)
+   * [Borrar Usuario](#delete)
 <!--te-->
 
 
 
-# 
+
 
